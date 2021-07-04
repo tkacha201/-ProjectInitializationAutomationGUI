@@ -39,10 +39,10 @@ path = r'C:\Users\sample.user\Documents\projects\my_projects'
 ```bash
 Change or delete arguments in git_credentials.txt
 You will be prompted for a username and password if git_credentials.txt is empty
-If only username supplies, password prompt will appear.
+If only username supplied, password prompt will appear.
 ```
 
 ### Usage:
 ```bash
-To run the script type in 'create <name of your new project>'
+To run the script type in 'create <name of your new project>' in the command line
 ```
